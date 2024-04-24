@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wMuLBPCiryi4UkDKrHZol1WfsHNMq1SdQe9960op3GI=",
+  "Source": "BackOffice.Banking.Sirius.Deposit.FakeApi",
+  "BasePath": "_content/BackOffice.Banking.Sirius.Deposit.FakeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

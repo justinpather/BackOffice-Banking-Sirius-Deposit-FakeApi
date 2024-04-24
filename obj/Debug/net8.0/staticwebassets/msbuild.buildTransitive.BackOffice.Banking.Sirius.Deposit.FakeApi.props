@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BackOffice.Banking.Sirius.Deposit.FakeApi.props" />
+</Project>
